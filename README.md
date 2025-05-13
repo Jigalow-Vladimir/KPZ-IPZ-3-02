@@ -4,8 +4,8 @@
 
 [Лабораторна 2](homeworks/practice-02/README.md)
 
-[Лабораторна 3](homeworks/lab-practice-04/README.md)
+[Лабораторна 4](homeworks/lab-practice-04/README.md)
 
-[Лабораторна 4](homeworks/practice-05/README.md)
+[Лабораторна 5](homeworks/practice-05/README.md)
 
-[Лабораторна 5](homeworks/lab-practice-06/README.md)
+[Лабораторна 6](homeworks/lab-practice-06/README.md)
